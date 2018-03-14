@@ -1,0 +1,18 @@
+{
+  "name": "openCV-basketball-frvr-bot",
+  "version": "1.0",
+  "description": "Use OpenCV to play basketball game",
+  "repository": "https://github.com/hkben/openCV-basketball-frvr-bot.git",
+  "keywords": [
+    "openCV",
+    "templatematching",
+    "bot",
+    "basketball"
+  ],
+  "author": "hkben",
+  "dependencies": {
+    "opencv": "git+https://github.com/peterbraden/node-opencv.git",
+    "robotjs": "0.5.1",
+    "jimp": "0.2.28"
+  }
+}
